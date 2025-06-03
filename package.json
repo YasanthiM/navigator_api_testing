@@ -1,0 +1,19 @@
+{
+  "name": "playwright_api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/axios": "^0.14.4",
+    "@types/node": "^22.15.24",
+    "playwright": "^1.52.0"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
